@@ -37,8 +37,6 @@ http://192.168.50.1:8686/udp/239.93.3.29:6000
 http://192.168.50.1:8686/udp/239.93.2.103:5140
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",17 CCTV-17高清
 http://192.168.50.1:8686/udp/239.93.2.92:5140
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",18 CCTV-1杜比高清
-http://192.168.50.1:8686/udp/239.93.2.69:5140
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",19 CCTV-5+高清
 http://192.168.50.1:8686/udp/239.93.2.36:8004
 #EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",21 爱上4K(4K机顶盒用户可观看)
