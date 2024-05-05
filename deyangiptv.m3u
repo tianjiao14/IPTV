@@ -1,14 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
-http://192.168.50.1:8686/udp/239.93.2.4:2191
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰卫视
-http://192.168.50.1:8686/udp/239.93.2.9:2192
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16 4K 25帧
-http://192.168.50.1:8686/udp/239.93.44.54:5140
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",1 CCTV-1高清
-http://192.168.50.1:8686/rtp/239.93.2.184:5140
+http://192.168.50.1:8686/udp/239.93.2.184:5140
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",2 CCTV-2高清
-http://192.168.50.1:8686/rtp/239.93.3.23:6000
+http://192.168.50.1:8686/udp/239.93.3.23:6000
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",3 CCTV-3高清
 http://192.168.50.1:8686/udp/239.93.2.11:2223
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",4 CCTV-4高清
@@ -37,6 +31,24 @@ http://192.168.50.1:8686/udp/239.93.3.29:6000
 http://192.168.50.1:8686/udp/239.93.2.103:5140
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",17 CCTV-17高清
 http://192.168.50.1:8686/udp/239.93.2.92:5140
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
+http://192.168.50.1:8686/udp/239.93.2.4:2191
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰卫视
+http://192.168.50.1:8686/udp/239.93.2.9:2192
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",精彩连播
+http://192.168.50.1:8686/udp/239.93.3.43:5140
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16 高清
+http://192.168.50.1:8686/udp/239.93.44.53:5140
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16 4K 25帧
+http://192.168.50.1:8686/udp/239.93.44.54:5140
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="地方",CHC家庭影院
+http://192.168.50.1:8686/udp/239.93.44.6:5140
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="地方",CHC高清电影
+http://192.168.50.1:8686/udp/239.93.44.5:5140
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="地方",CHC动作电影
+http://192.168.50.1:8686/udp/239.93.44.7:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",18 CCTV-4K
+http://192.168.50.1:8686/udp/239.93.44.42:5140
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",19 CCTV-5+高清
 http://192.168.50.1:8686/udp/239.93.2.36:8004
 #EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",21 爱上4K(4K机顶盒用户可观看)
@@ -351,6 +363,18 @@ http://192.168.50.1:8686/udp/239.93.3.176:5140
 http://192.168.50.1:8686/udp/239.93.3.156:5140
 #EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="地方",339 4K乐享超清
 http://192.168.50.1:8686/udp/239.93.2.43:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",524 魅力足球
+http://192.168.50.1:8686/udp/239.93.44.97:5140
+#EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="地方",525 风云足球
+http://192.168.50.1:8686/udp/239.93.2.235:5140
+#EXTINF:-1 tvg-id="6581" tvg-name="早期教育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE33.jpg" group-title="地方",526 早期教育
+http://192.168.50.1:8686/udp/239.93.2.117:5140
+#EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="地方",527 世界地理
+http://192.168.50.1:8686/udp/239.93.3.157:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",528 央视文化精品
+http://192.168.50.1:8686/udp/239.93.44.47:5140
+#EXTINF:-1 tvg-id="6627" tvg-name="百姓健康" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHTV.jpg" group-title="地方",529 百姓健康
+http://192.168.50.1:8686/udp/239.93.44.35:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",524 精彩推荐
 http://192.168.50.1:8686/udp/239.93.3.5:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",525 直播室1
@@ -377,10 +401,6 @@ http://192.168.50.1:8686/udp/239.93.2.209:5140
 http://192.168.50.1:8686/udp/239.93.44.69:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",541 雅克音乐节宣传
 http://192.168.50.1:8686/udp/239.93.44.68:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",551 云演艺宣传
-http://192.168.50.1:8686/udp/239.93.44.60:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",580 创新及人才文化节
-http://192.168.50.1:8686/udp/239.93.44.59:5140
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png" group-title="数字",纯享4K
 http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 #EXTINF:-1 tvg-id="全纪实" tvg-name="全纪实" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="数字",乐游频道
