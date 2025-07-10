@@ -4,13 +4,13 @@ http://192.168.50.1:8686/udp/239.93.2.184:5140
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",2 CCTV-2高清
 http://192.168.50.1:8686/udp/239.93.3.23:6000
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",3 CCTV-3高清
-http://192.168.50.1:8686/udp/239.93.2.11:2223
+http://192.168.50.1:8686/udp/239.93.2.11:5140
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",4 CCTV-4高清
 http://192.168.50.1:8686/udp/239.93.3.105:5140
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",5 CCTV-5高清
-http://192.168.50.1:8686/udp/239.93.2.12:2224
+http://192.168.50.1:8686/udp/239.93.2.12:5140
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",6 CCTV-6高清
-http://192.168.50.1:8686/udp/239.93.2.13:2226
+http://192.168.50.1:8686/udp/239.93.2.13:5140
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",7 CCTV-7高清
 http://192.168.50.1:8686/udp/239.93.3.67:5140
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",8 CCTV-8高清
