@@ -1,10 +1,10 @@
 #EXTM3U x-tvg-url=https://diyp.112114.xyz/pp.xml
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV-1高清" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1高清
-http://192.168.50.1:8686/udp/239.94.0.31:5140
+http://192.168.50.225:8686/udp/239.94.0.31:5140
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV-2高清" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV-2高清
-http://192.168.50.1:8686/udp/239.94.0.2:5140
+http://192.168.50.225:8686/udp/239.94.0.2:5140
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV-3高清" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV-3高清
-http://192.168.50.1:8686/udp/239.94.0.32:5140
+http://192.168.50.225:8686/udp/239.94.0.32:5140
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV-4高清" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV-4高清
 http://192.168.50.1:8686/udp/239.94.0.4:5140
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV-5高清" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV-5高清
